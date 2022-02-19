@@ -1,4 +1,6 @@
 # Compiled class file
+#ignora o que esta en el IDE
+.idea
 *.class
 
 # Log file
